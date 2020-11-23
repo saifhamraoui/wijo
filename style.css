@@ -1,0 +1,18 @@
+header{
+ background-image:url("fond.png");
+ height:157px;width:1250px;
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+}
+body{
+background-color: #ff4a44;
+ border-bottom:5px solid black;
+ height:158px;
+}
+.vertical{
+ border-left: 5px solid black;
+ height:2000px;
+ position:absolute;
+ left: 13%;
+}
